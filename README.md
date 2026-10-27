@@ -14,7 +14,7 @@ A self-contained study of **quantum error-correction decoding** in Python. The r
 ![surface code threshold](fig_surface_threshold.png)
 
 - Below threshold, going from d = 3 to d = 7 lowers the per-round logical error rate about 10× at p = 0.3 %.
-- The d = 5 / d = 7 curves cross at **p ≈ 0.8 % per shot** (≈ 1.3 % per round). This is approximate, because near the crossing the curves differ by less than their statistical noise.
+- The d = 5 / d = 7 curves cross at **p ≈ 0.7 % per shot** (≈ 1.2 % per round). This is approximate, because near the crossing the curves differ by less than their statistical noise.
 
 ### Gross code vs. surface codes (code capacity, 12 logical qubits)
 
