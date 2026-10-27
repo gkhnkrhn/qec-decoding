@@ -1,0 +1,7 @@
+stim>=1.14
+pymatching>=2.2
+ldpc>=2.2
+numpy
+scipy
+matplotlib
+jupyterlab
